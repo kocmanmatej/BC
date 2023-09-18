@@ -1,4 +1,4 @@
-# INTERACTIVE TOOL FOR BIKE FITTING UTILIZING COMPUTER VISION
+# Interactive tool for bike fitting utilizing computer vision
 
 Aplikácia pre bike fitting. 
 
