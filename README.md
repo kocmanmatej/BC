@@ -17,4 +17,4 @@ Notes for video:
 - Recommened keypoints are optimalized so that the biggest discrepancy between the recommended and actual value out of any measurement is the smallest possible.
 - Recommended keypoints respect the adjustability limitations of the bike. Perfect keypoints don't.
 - While setting up a new position and setting the seat post, head post, fore/aft and scale measurements, the points can also be selected and moved with arrow keys.
-- Rebasing changes the base keypoints of the position. It is meant to be used to correct the position of inaccurately detected keypoints if needed.
+- Rebasing changes the base keypoints of the position. It is meant to be used to manually correct the position of inaccurately detected keypoints if needed.
