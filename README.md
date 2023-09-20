@@ -7,7 +7,7 @@ This repository only contains a demo with no code. Code will be uploaded once th
 
 Video demonstrates all the important functionality of the app.
 
-Notes for video:
+Video notes:
 - Only the wrist, hip and shoulder keypoints are movable, as demonstrated.
 - Clicking on a keypoint selects it and makes it movable with arrow keys.
 - Moving a keypoint 'along a bike axis' works for wrist and hip keypoints when moving with arrow keys and means moving along the head and seat post respectively.
