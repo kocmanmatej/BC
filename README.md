@@ -3,8 +3,7 @@
 This repository only contains a demo with no code. Code will be uploaded once the project is done.
 
 ## Demo:
-
-https://www.youtube.com/watch?v=ylYORl_xukI&ab_channel=MatejKocman
+[![Bike fitting app](https://img.youtube.com/vi/ylYORl_xukI/0.jpg)](https://www.youtube.com/watch?v=ylYORl_xukI&ab_channel=MatejKocman)
 
 Video demonstrates all the important functionality of the app.
 
